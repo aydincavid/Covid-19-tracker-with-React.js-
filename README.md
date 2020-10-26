@@ -1,1 +1,1 @@
-# Covid-19-tracker-with-React.js-
+# Covid-19 Tracker With React.js
